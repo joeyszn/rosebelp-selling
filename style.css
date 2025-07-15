@@ -60,8 +60,8 @@ h2 {
 
 /* Button */
 .btn {
-  background-color: #7F1009;
-  color: #fff;
+  background-color: #00F663;
+  color: #000000;
   padding: 12px 25px;
   font-size: 1rem;
   border: none;
@@ -74,7 +74,7 @@ h2 {
 }
 
 .btn:hover {
-  background-color: #cc0000;
+  background-color: #0bd25a;
 }
 
 .body-section {
